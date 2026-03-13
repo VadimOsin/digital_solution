@@ -1,0 +1,12 @@
+node_modules
+dist
+build
+.DS_Store
+*.log
+*.tmp
+*.swp
+coverage
+.vite
+*.tsbuildinfo
+backend/npm-debug.log*
+frontend/npm-debug.log*
